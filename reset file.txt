@@ -1,1 +1,2 @@
-this file needs to be resetted 
+this file needs to be resetted 1 
+this is the 2nd commit 
